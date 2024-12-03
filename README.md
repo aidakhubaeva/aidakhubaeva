@@ -8,7 +8,10 @@ I love creating something new or improving the existing, bringing projects to an
 - 🚀 My goal is to keep growing as a frontend developer, deepening my knowledge and skills.  
 - 🌍 Open to remote work and ready to relocate for an exciting project.  
 - 💡 Currently **actively looking for a job**.  
-
+---
+## Hobbies  
+- 🚗 **Restoring vintage cars**: I enjoy bringing timeless classics back to life, combining creativity and precision.  
+- 🎨 **Creating coloring books**: I design and illustrate books to spark creativity and relaxation in others.  
 ---
 
 ## Languages and Tools  
