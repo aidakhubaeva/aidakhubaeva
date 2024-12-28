@@ -1,17 +1,28 @@
-# 👋 Hello everyone!  
+# 👋 Hello everyone!
 
-## About Me  
-I am a Frontend Developer passionate about technology, analytics, and structure.  
-I love creating something new or improving the existing, bringing projects to an aesthetically pleasing and functional result.  
+## About Me
+I am a Frontend Developer who approaches tasks with creativity and enthusiasm. I always have plenty of ideas, and if one doesn’t work, I’m ready to propose another. I truly enjoy the process of finding solutions, discussing, and refining ideas. For me, it’s important to work on projects with a strong concept and aesthetic value, as I want not only to create something meaningful but also to find innovative and unconventional approaches.
 
-- 🔥 I strive to become part of a team that creates inspiring and meaningful products.  
-- 🚀 My goal is to keep growing as a frontend developer, deepening my knowledge and skills.  
-- 🌍 Open to remote work and ready to relocate for an exciting project.  
-- 💡 Currently **actively looking for a job**.  
+I’m passionate about technology, analytics, and structure - they inspire me to dive deep into tasks.  
+In work, I value teams where communication and management structures allow professional growth.
+
+My experience includes writing clean and efficient code, organizing workflows, and prioritizing tasks effectively.  
+Choosing a profession in this field was a conscious decision for me, and I am ready to invest my energy and effort to become a true professional.
+
+Currently, I am working on two personal projects:
+1. A digital coloring book store  
+2. A social network for travelers  
+   I believe that existing solutions either don’t address all user needs or have too complex and inconvenient interfaces.
+
 ---
-## Hobbies  
-- 🚗 **Restoring vintage cars**: I enjoy bringing timeless classics back to life, combining creativity and precision.  
-- 🎨 **Creating coloring books**: I design and illustrate books to spark creativity and relaxation in others.  
+
+## Hobbies
+- Restoring cars: I enjoy bringing classic vehicles back to life by combining creativity with precision.  
+- Diving and bird photography: Capturing the beauty of nature both above and below water.  
+- Creating bird-themed coloring books: Designing and illustrating unique books to inspire creativity in others.  
+- Hiking and archery: Exploring the mountains and improving my skills with a bow.  
+- Tinkering and repair: I love understanding how things work — from mechanics to clothing — and figuring out how to create, fix, or improve them.
+
 ---
 
 ## Languages and Tools  
