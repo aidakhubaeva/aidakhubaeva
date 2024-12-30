@@ -21,7 +21,7 @@ Currently, I am working on two personal projects:
 - Diving and bird photography: Capturing the beauty of nature both above and below water.  
 - Creating bird-themed coloring books: Designing and illustrating unique books to inspire creativity in others.  
 - Hiking and archery: Exploring the mountains and improving my skills with a bow.  
-- Tinkering and repair: I love understanding how things work — from mechanics to clothing — and figuring out how to create, fix, or improve them.
+- Tinkering and repair: I love understanding how things work - from mechanics to clothing - and figuring out how to create, fix, or improve them.
 
 ---
 
