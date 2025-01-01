@@ -1,13 +1,16 @@
 # 👋 Hello everyone!
 
 ## About Me
-I am a Frontend Developer who approaches tasks with creativity and enthusiasm. I always have plenty of ideas, and if one doesn’t work, I’m ready to propose another. I truly enjoy the process of finding solutions, discussing, and refining ideas. For me, it’s important to work on projects with a strong concept and aesthetic value, as I want not only to create something meaningful but also to find innovative and unconventional approaches.
+I'm a front-end developer who approaches tasks with creativity and enthusiasm. I always have plenty of ideas, and if one doesn’t work, I’m ready to suggest another. 
+I really enjoy the process of finding solutions, discussing, and refining ideas. It’s important for me to work on projects with a strong concept and aesthetic value because
+My goal is not only to create something meaningful but also to find new, unconventional approaches.
 
-I’m passionate about technology, analytics, and structure - they inspire me to dive deep into tasks.  
-In work, I value teams where communication and management structures allow professional growth.
+I love design, technology, and structure, which is why I chose front-end development. It allows me to combine creativity with analytical work. 
+I'm inspired by creating intuitive and aesthetically pleasing user interfaces. I find working with animations and complex visual elements particularly interesting.
+It's valuable for me to be a part of the team where communication and management help team members grow.
 
-My experience includes writing clean and efficient code, organizing workflows, and prioritizing tasks effectively.  
-Choosing a profession in this field was a conscious decision for me, and I am ready to invest my energy and effort to become a true professional.
+My experience includes not only writing clean and efficient code but also organizing workflows and prioritizing my tasks. 
+Choosing this profession was a deliberate decision for me, and I am ready to invest time and energy into my professional growth.
 
 Currently, I am working on two personal projects:
 1. A digital coloring book store  
